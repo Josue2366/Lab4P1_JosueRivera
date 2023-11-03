@@ -18,7 +18,8 @@ public class Lab4P1_JosueRivera {
         System.out.println("elija una opcion:");
         System.out.println("1.Inversion especial");
         System.out.println("2. balanza de cadenas");
-        System.out.println("3.");
+        System.out.println("3.Cifrado de mensajes");
+        System.out.println("4. para salir");
         System.out.println("introduzca una opcion");
         int opcion = Sc.nextInt();
         while ( opcion > 0 && opcion <=3){
@@ -113,7 +114,8 @@ public class Lab4P1_JosueRivera {
             System.out.println("elija una opcion:");
             System.out.println("1.Inversion especial");
             System.out.println("2.balanza de cadenas");
-            System.out.println("3.");
+            System.out.println("3.cifrado de mensajes");
+            System.out.println("4. para salir");
             System.out.println("introduzca una opcion");
             opcion = Sc.nextInt();
         }
